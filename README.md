@@ -1,12 +1,29 @@
-# React + Vite
+# NoteSaver 🗒️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, modern, and user-friendly web application for saving, viewing, editing, copying, and sharing notes. Built with React, Redux, and Tailwind CSS, NoteSaver delivers an intuitive experience for managing personal or shareable text-based notes.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 [Visit Live Site](https://hello-note.vercel.app/)
 
-## Expanding the ESLint configuration
+> Replace the above URL with your actual deployed site link (e.g., Vercel, Netlify, or GitHub Pages).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- 🔍 **Search Notes** — Instantly filter your notes with a smart search bar.
+- ✏️ **Edit & Update** — Update existing notes with ease.
+- 📋 **Copy to Clipboard** — Quickly copy note content with a click.
+- 🔗 **Sharable Links** — Share direct links to specific notes.
+- 🗑️ **Delete Support** — Remove unwanted notes with confirmation.
+- 🎨 **Modern UI** — Clean, responsive design powered by Tailwind CSS.
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Redux Toolkit, React Router
+- **Styling:** Tailwind CSS
+- **Utilities:** react-hot-toast, lucide-react
+
+## 🧩 Project Structure
+
+
+
