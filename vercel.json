@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/pastes/:pasteId", "destination": "/" },
+    { "source": "/edit/:pasteId", "destination": "/" }
+  ]
+}
