@@ -6,7 +6,7 @@ A sleek, modern, and user-friendly web application for saving, viewing, editing,
 
 🌐 [Visit Live Site](https://hello-note.vercel.app/)
 
-> Replace the above URL with your actual deployed site link (e.g., Vercel, Netlify, or GitHub Pages).
+
 
 ## 🚀 Features
 
@@ -23,7 +23,7 @@ A sleek, modern, and user-friendly web application for saving, viewing, editing,
 - **Styling:** Tailwind CSS
 - **Utilities:** react-hot-toast, lucide-react
 
-## 🧩 Project Structure
+
 
 
 
